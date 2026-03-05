@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/momar/Projects/pos2/pos_backend/venv
+set -gx VIRTUAL_ENV /home/momar/Projects/pos2/pos_edited/pos_backend/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

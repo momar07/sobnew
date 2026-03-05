@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/momar/Projects/pos2/pos_backend/venv
+VIRTUAL_ENV=/home/momar/Projects/pos2/pos_edited/pos_backend/venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
