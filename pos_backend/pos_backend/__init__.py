@@ -1,0 +1,1 @@
+# POS Backend Django Project
